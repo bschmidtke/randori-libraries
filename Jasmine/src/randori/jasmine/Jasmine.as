@@ -29,10 +29,6 @@ package randori.jasmine {
 		public static var setInterval:Function;
 		public static var clearInterval:Function;
 
-		public function Jasmine()
-		{
-		}
-
 		/**
 		 * Determines whether an object is a spy.
 		 *

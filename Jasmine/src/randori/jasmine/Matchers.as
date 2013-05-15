@@ -90,7 +90,7 @@ package randori.jasmine {
 		 */
 		public function toBeNaN():Boolean
 		{
-
+			return null;
 		}
 
 		/**
